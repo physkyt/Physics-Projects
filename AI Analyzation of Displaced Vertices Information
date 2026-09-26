@@ -1,4 +1,4 @@
-Project Overview:
+#Project Overview:
 
 This repository contains a standalone, open-source python research pipeline engineered to automate the isolation of exotic particle trajectories and long-lived displaced decay vertices. This project is directly inspired by the manual visual data-mining workflows presented to citizen scientists on the Zooniverse New Particle Search at CERN (https://zooniverse.org) initiative.
 
