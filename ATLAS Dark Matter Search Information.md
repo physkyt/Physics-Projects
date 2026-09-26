@@ -34,7 +34,7 @@ weighted avg       0.97      0.97      0.97      5600
 ### SECTION 3: MONTE CARLO ISOLATION FOREST
 * **ROC AUC:** 0.7789
 * **Optimal Threshold:** 0.1860
-* **\(S/\sqrt{B}\):** 110.00
+* **\(S/sqrt{B}\):** 110.00
 
 ![montecarloanomaly](montecarloanomaly.png)---
 
