@@ -1,4 +1,5 @@
-## 📌 Project Overview
-This repository contains a standalone, open-source python research pipeline engineered to automate the isolation of exotic particle trajectories and long-lived displaced decay vertices. This project is directly inspired by the manual visual data-mining workflows presented to citizen scientists on the **[Zooniverse New Particle Search at CERN](https://zooniverse.org)** initiative.
+Project Overview:
 
-Rather than relying on human visual screening to look for lines crossing away from the primary interaction point, this application pairs a classical **Hough Transform computer vision algorithm** with a **Deep Multi-Layer Perceptron (MLP) Neural Network** to programmatically prune high-background noise and localize decay origins.
+This repository contains a standalone, open-source python research pipeline engineered to automate the isolation of exotic particle trajectories and long-lived displaced decay vertices. This project is directly inspired by the manual visual data-mining workflows presented to citizen scientists on the Zooniverse New Particle Search at CERN (https://zooniverse.org) initiative.
+
+Rather than relying on human visual screening to look for lines crossing away from the primary interaction point, this application pairs a classical Hough Transform computer vision algorithm with a Deep Multi-Layer Perceptron (MLP) Neural Network to programmatically prune high-background noise and localize decay origins.
