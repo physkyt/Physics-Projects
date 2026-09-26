@@ -23,7 +23,7 @@ Classification report:
 weighted avg       0.99      0.99      0.99       152
 ```
 
-![Displaced Vertex Results](images/download.png)
+![Displaced Vertex Results](download.png)
 
 ### SECTION 2: MOMENTUM-SPACE SIMULATION
 **Accuracy:** 81.00%
@@ -40,4 +40,4 @@ Classification report:
 weighted avg       0.82      0.81      0.81      2000
 ```
 
-![Momentum-Space Results](images/download(1).png)
+![Momentum-Space Results](download (1).png)
