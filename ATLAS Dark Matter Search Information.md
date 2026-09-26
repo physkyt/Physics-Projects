@@ -1,6 +1,6 @@
 # Project Overview
 
-This project utilizes open data from ATLAS and a stochastic simulation to model the search for dark matter (https://opendata.cern.ch/record/atlas-93942). 
+This project utilizes open data from ATLAS and a stochastic simulation to model the search for dark matter (https://opendata.cern.ch/record/atlas-93942). It does this by training a neural-network classifier that distinguishes signal events from Standard Model background. The model uses five kinematic variables—missing transverse energy, dilepton invariant mass, leading- and subleading-lepton transverse momentum, and dilepton angular separation. It includes class-imbalance weighting, hyperparameter optimization, learning-rate decay, ROC/AUC evaluation, and an optimized classification threshold.
 
 ---
 
