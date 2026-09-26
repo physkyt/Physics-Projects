@@ -23,8 +23,7 @@ This project utilizes open data from ATLAS and a stochastic simulation to model 
    macro avg       0.97      0.97      0.97      5600
 weighted avg       0.97      0.97      0.97      5600
 ```
-!(randomforest.png)
----
+![randomforest](randomforest.png)---
 
 ### SECTION 2: MONTE CARLO XGBOOST
 **Mean ROC AUC:** 0.9972 ± 0.0002
