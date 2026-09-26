@@ -28,7 +28,7 @@ weighted avg       0.97      0.97      0.97      5600
 ### SECTION 2: MONTE CARLO XGBOOST
 **Mean ROC AUC:** 0.9972 ± 0.0002
 
-![xgboost](xgboost.png)---
+![xgboost](XGBoost.png)---
 
 
 ### SECTION 3: MONTE CARLO ISOLATION FOREST
