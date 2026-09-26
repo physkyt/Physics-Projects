@@ -28,20 +28,23 @@ weighted avg       0.97      0.97      0.97      5600
 ### SECTION 2: MONTE CARLO XGBOOST
 **Mean ROC AUC:** 0.9972 ± 0.0002
 
----
+![xgboost](xgboost.png)---
+
 
 ### SECTION 3: MONTE CARLO ISOLATION FOREST
 * **ROC AUC:** 0.7789
 * **Optimal Threshold:** 0.1860
 * **\(S/\sqrt{B}\):** 110.00
 
----
+![montecarloanomaly](montecarloanomaly.png)---
+
 
 ### SECTION 4: LOCAL ATLAS CSV ISOLATION FOREST
 * **ROC AUC:** 0.6006
 * **Optimal Threshold:** -0.1490
 
----
+![atlasanomaly](atlasanomaly.png)---
+
 
 ### SECTION 5: LOCAL ATLAS CSV XGBOOST
 * **ROC AUC:** 0.6746
@@ -58,7 +61,8 @@ weighted avg       0.97      0.97      0.97      5600
 weighted avg       0.93      0.67      0.77      2590
 ```
 
----
+![atlasxgboost](atlasxgboost.png)---
+
 
 ### SECTION 6: UNIFIED ATLAS PYTORCH MLP
 * **Validation ROC AUC:** 0.7341
@@ -76,7 +80,8 @@ All Signals Included       0.31      0.67      0.43      1013
         weighted avg       0.80      0.67      0.71      5621
 ```
 
----
+![unified](unified.png)---
+
 
 ## Final Method Comparison
 
