@@ -1,6 +1,9 @@
 # Project Overview
 
-This project utilizes open data from ATLAS and a stochastic simulation to model the search for dark matter (https://opendata.cern.ch/record/atlas-93942). It does this by training a neural-network classifier that distinguishes signal events from Standard Model background. The model uses five kinematic variables—missing transverse energy, dilepton invariant mass, leading- and subleading-lepton transverse momentum, and dilepton angular separation. It includes class-imbalance weighting, hyperparameter optimization, learning-rate decay, ROC/AUC evaluation, and an optimized classification threshold.
+This project detects the gravitational-wave event GW150914 using publicly available LIGO strain data.
+It uses the interferometer strain data from the LIGO Open Science Center for both the Hanford (H1) and Livingston (L1) detectors, together with a numerical-relativity waveform template representing the late inspiral, merger, and ringdown of two merging black holes. The detector data are characterized through their noise power spectra, then processed using whitening and bandpass filtering in order to make the gravitational-wave signal more apparent.
+It analyses the processed data through time-domain plots and spectrograms before applying matched filtering in the frequency domain. The matched filter correlates the measured detector strain with the gravitational-wave template while weighting frequencies according to the detector noise, producing a signal-to-noise ratio (SNR) as a function of time.
+The resulting H1 and L1 SNR peaks are identified and compared with the published GW150914 measurements. Because the publicly used numerical-relativity template covers only the final portion of the waveform, rather than the much longer template used in the full LIGO search, the project  treats its recovered SNR as a simplified reconstruction rather than a reproduction of the complete production-pipeline result.
 
 ---
 
