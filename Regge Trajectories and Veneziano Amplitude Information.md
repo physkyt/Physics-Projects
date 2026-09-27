@@ -9,7 +9,7 @@ The project was motivated by the connection of real hadron spectroscopy to one o
 
 # References
 Particle Data Group masses used above: R.L. Workman et al. (Particle Data Group), Review of Particle Physics, https://pdg.lbl.gov \
-G. Veneziano, "Construction of a crossing-symmetric, Regge behaved amplitude for linearly rising trajectories," Nuovo Cimento A 57, 190 (1968) — the original paper. \
+G. Veneziano, "Construction of a crossing-symmetric, Regge behaved amplitude for linearly rising trajectories," Nuovo Cimento A 57, 190 (1968) \
 A very readable historical account: G. Veneziano, "The birth of string theory," https://arxiv.org/abs/0902.4189 \
 
 ---
