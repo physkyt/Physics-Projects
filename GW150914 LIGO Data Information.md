@@ -24,7 +24,8 @@ Dataset DOI: https://doi.org/10.7935/K5MW2F23 (CC BY 4.0 license)
 
 ### SECTION 2: Strain Data
 
-![strain](strain.png)---
+![strain](strain.png)
+---
 
 ### SECTION 4: Noise Spectrum
 ![noisespec](noisespec.png)---
