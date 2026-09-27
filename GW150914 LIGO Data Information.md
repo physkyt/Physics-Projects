@@ -28,16 +28,20 @@ Dataset DOI: https://doi.org/10.7935/K5MW2F23 (CC BY 4.0 license)
 ---
 
 ### SECTION 4: Noise Spectrum
-![noisespec](noisespec.png)---
+![noisespec](noisespec.png)
+---
 
 ### SECTION 5: The Whitening and bandpass filtering
-![filtering](filtering.png)---
+![filtering](filtering.png)
+---
 
 ### SECTION 6: The Spectrogram
-![specgram](specgram.png)---
+![specgram](specgram.png)
+---
 
 ### SECTION 7: Matched-Filter
-![matchedfiler](matchedfilter.png)---
+![matchedfiler](matchedfilter.png)
+---
 
 ### SECTION 8: Results
 
