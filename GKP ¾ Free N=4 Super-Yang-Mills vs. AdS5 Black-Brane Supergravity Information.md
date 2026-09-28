@@ -9,7 +9,7 @@ The project distinguishes these endpoint calculations from the full finite-coupl
 # References
 S.S. Gubser, I.R. Klebanov, A.W. Peet, "Entropy and Temperature of Black 3-Branes," Phys. Rev. D 54, 3915 (1996), https://arxiv.org/abs/hep-th/9602135 \
 S.S. Gubser, I.R. Klebanov, A.A. Tseytlin, "Coupling Constant Dependence in the Thermodynamics of N=4 Supersymmetric Yang-Mills Theory," Nucl. Phys. B534 (1998) 202, https://arxiv.org/abs/hep-th/9805156 \
-J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity," https://arxiv.org/abs/hep-th/9711200 (the paper this whole subject is named after, one year after GKP)
+J. Maldacena, "The Large N Limit of Superconformal Field Theories and Supergravity," https://arxiv.org/abs/hep-th/9711200
 
 ---
 
